@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=MCeUNxH9Y80
 2. Copy and put the following two SDK *.dll files into the same directory as in the first step: "XPLM.dll" and "XPWidgets.dll".
 3. Run X-Plane, and the plugin will automatically start and run.
 
+# Modify the project
+1. The serial port number is defined in "XPlane_GIMcom.h". The default value is COM10.
+2. Main functions of the plugin are defined in "XPlaneAsSimEnvPlugin.cpp".
+3. "XPlane_GIMcom.cpp" controlls the communications on the serial port.
