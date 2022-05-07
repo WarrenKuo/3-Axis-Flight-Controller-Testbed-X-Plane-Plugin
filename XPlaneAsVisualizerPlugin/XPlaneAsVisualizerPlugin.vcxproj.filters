@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="XPlane_GIMcom.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="XPlaneAsSimEnvPluginWin.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="XPlaneAsSimEnvPlugin.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="platformDef.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPLMCamera.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPLMDataAccess.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPLMDefs.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPLMDisplay.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPLMGraphics.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPLMPlanes.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPLMProcessing.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPLMScenery.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPLMUtilities.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="XPlane_GIMcom.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
