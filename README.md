@@ -21,3 +21,9 @@ https://www.youtube.com/watch?v=MCeUNxH9Y80
 1. The serial port number is defined in "XPlane_GIMcom.h". The default value is COM10.
 2. Main functions of the plugin are defined in "XPlaneAsSimEnvPlugin.cpp".
 3. "XPlane_GIMcom.cpp" controlls the communications on the serial port.
+
+
+# Wiring Diagram 
+
+![image](https://user-images.githubusercontent.com/7514562/174126183-ab4d307f-8b32-4640-9d71-081c1a6b5e0c.png)
+
