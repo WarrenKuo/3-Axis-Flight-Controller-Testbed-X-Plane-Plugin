@@ -25,5 +25,6 @@ https://www.youtube.com/watch?v=MCeUNxH9Y80
 
 # Wiring Diagram 
 
-![image](https://user-images.githubusercontent.com/7514562/174126183-ab4d307f-8b32-4640-9d71-081c1a6b5e0c.png)
+![image](https://user-images.githubusercontent.com/7514562/185743027-6c2772d2-53ea-4b12-a257-690d9687b5ee.png)
+![image](https://user-images.githubusercontent.com/7514562/185743033-d8503e07-469c-409d-9b98-5b1bee375c38.png)
 
